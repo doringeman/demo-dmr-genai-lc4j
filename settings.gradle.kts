@@ -1,0 +1,1 @@
+rootProject.name = "demo-dmr-lc4j"
